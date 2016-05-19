@@ -1,0 +1,27 @@
+{
+  "name": "react-prototype",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtmacdonald/react-prototype.git"
+  },
+  "author": "Mark Macdonald <mark.t.macdonald@googlemail.com> (https://github.com/mtmacdonald)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mtmacdonald/react-prototype/issues"
+  },
+  "homepage": "https://github.com/mtmacdonald/react-prototype#readme",
+  "dependencies": {
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.5.0",
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2",
+    "webpack": "^1.13.0"
+  }
+}
